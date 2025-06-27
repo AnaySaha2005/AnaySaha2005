@@ -4,7 +4,7 @@
 
 ## 👋 Hi there, I'm Anay Saha!
 
-🎓 I'm a **2nd-year Web Developer** from **Jadavpur University** passionate about crafting beautiful and functional web experiences.  
+🎓 I'm a **3nd-year Web Developer** from **Jadavpur University** passionate about crafting beautiful and functional web experiences.  
 🌐 I specialize in **MERN stack** development (MongoDB, Express, React, Node.js).  
 ⚙️ I'm currently exploring the world of **DevOps** to understand deployment, CI/CD, and cloud infra.
 
