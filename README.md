@@ -4,34 +4,20 @@
 
 # 👋 Hi there, I'm Anay Saha!
 
-🎓 I'm a **4th-year Computer Science student** at **Jadavpur University**.
+🎓 I'm a **4th-year Information Technology student** at **Jadavpur University**.
 
-💻 I'm a **Full-Stack Developer** with experience building scalable applications using the **MERN stack** and **Spring Boot**.
+💻 I'm a **Full-Stack Developer** with experience building web applications using the **MERN Stack** and **Spring Boot**.
 
-☁️ I'm passionate about **Backend Engineering, DevOps, Cloud-Native Technologies, and Distributed Systems**, and I enjoy designing applications that are reliable, observable, and production-ready.
+☁️ I have hands-on experience with **Docker**, **Kubernetes**, **Apache Kafka**, and modern DevOps tools. I'm currently expanding my knowledge of **CI/CD pipelines**, cloud-native development, and scalable backend systems.
 
 ---
 
 ## 🚀 What I'm Working On
 
 * 🔭 Building scalable full-stack applications
-* 🌱 Exploring Kubernetes, cloud-native architecture, and distributed systems
-* ⚡ Improving backend performance, observability, and system design
-* 🤝 Open to collaborating on open-source backend and DevOps projects
-
----
-
-## 💬 Ask Me About
-
-* MERN Stack
-* Spring Boot
-* Docker & Kubernetes
-* Apache Kafka
-* REST APIs & Microservices
-* Prometheus, Grafana & PromQL
-* NGINX & Kong API Gateway
-* CI/CD & DevOps
-* Data Structures & Algorithms
+* 🌱 Learning more about CI/CD, Kubernetes, and system design
+* ⚡ Improving application performance and observability
+* 🤝 Looking to collaborate on open-source full-stack and backend projects
 
 ---
 
@@ -61,39 +47,24 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 
-### DevOps & Cloud
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
-
-### Messaging & API Gateway
-
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat\&logo=apache-kafka\&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat\&logo=nginx\&logoColor=white)
 ![Kong](https://img.shields.io/badge/Kong-003459?style=flat\&logo=kong\&logoColor=white)
-
-### Observability
-
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat\&logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat\&logo=grafana\&logoColor=white)
-![PromQL](https://img.shields.io/badge/PromQL-FF6B35?style=flat)
-
----
-
-## 📊 GitHub Stats
-
-![Anay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnaySaha2005\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaySaha2005\&layout=compact\&theme=tokyonight)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
 
 ---
 
 ## 📫 Connect With Me
 
 * 📧 **Email:** [anyasaha2005@gmail.com](mailto:anyasaha2005@gmail.com)
-* 💼 Always interested in collaborating on exciting backend, cloud-native, and open-source projects.
+* 💼 Open to internships, software engineering roles, and open-source collaborations.
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
